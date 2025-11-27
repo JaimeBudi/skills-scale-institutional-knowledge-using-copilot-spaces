@@ -53,7 +53,7 @@ Quality practices include comprehensive unit tests, integration tests, and end-t
   Comprehensive guide to risk management practices, stakeholder communication strategies, status update templates, and escalation paths.
 
 - **[octoacme-roles-and-personas.md](octoacme-roles-and-personas.md)**  
-  Detailed definitions of key roles (Developers, Product Managers, Project Managers) including responsibilities, goals, and typical communication patterns.
+  Detailed definitions of key roles including Developers, Product Managers, Project Managers, Technical Lead, Business Analyst, Scrum Master/Delivery Facilitator, UX/UI Designer, and Support/Customer Success. Each role includes responsibilities, goals, interactions with other roles, and example scenarios.
 
 ## Quick Start Guide
 
